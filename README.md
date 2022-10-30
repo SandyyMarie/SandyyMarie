@@ -1,4 +1,4 @@
-![Sandy's GitHub Banner](./assets/GitHubHeader.png)
+![Sandy's GitHub Banner](./assets/SMG_Banner-2.png)
 
 ### 👋🏼 Hey there, I'm Sandy! 
 
