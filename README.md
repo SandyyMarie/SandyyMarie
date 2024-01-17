@@ -10,5 +10,4 @@ After working in Customer Service for over 12 years and Healthcare for over 9 ye
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SandyyMarie_)
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandyyMarie&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandyyMarie&theme=dracula)
+
