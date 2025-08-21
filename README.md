@@ -11,6 +11,7 @@ I'm currently open to new opportunities (especially remote roles or positions in
 When I'm not coding, you'll probably find me deep in a video game or exploring new tools that stretch my creativity. I’m always learning, always building, and always looking for ways to make tech more impactful.
 
 📌 Follow along to see what I’m working on next!
+<br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sandy-marie/)
 
 ---
