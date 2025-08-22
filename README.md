@@ -1,4 +1,4 @@
-![Sandy's GitHub Banner](./assets/SMG_Banner-2.png)
+![Sandy's GitHub Banner](./assets/SL_GH_BANNER-min.png)
 
 ---
 
