@@ -4,7 +4,7 @@
 
 *👋🏼 Hey there, I'm Sandy!* 
 
-After 12+ years in customer service and nearly a decade in healthcare, I made the leap into tech to pursue my passion for problem solving and building meaningful systems. Since 2020, I’ve been developing backend applications with a focus on test-driven development (`TDD`), secure authentication, and API integration primarily using `Ruby on Rails`, `Elixir`, and `PostgreSQL`.
+After 18+ years in customer service and nearly a decade of it in healthcare, I made the leap into tech to pursue my passion for problem solving and building meaningful systems. Since 2020, I’ve been developing backend applications with a focus on test-driven development (`TDD`), secure authentication, and API integration primarily using `Ruby on Rails`, `Elixir`, and `PostgreSQL`.
 
 I'm currently open to new opportunities (especially remote roles or positions in the UK with visa sponsorship) and actively working on side projects, including game development in `Unity` and fullstack certifications to broaden my technical toolkit with projects covering `React`, `JavaScript`, `HTML`, and `CSS`.
 
