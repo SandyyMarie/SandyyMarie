@@ -2,16 +2,22 @@
 
 ---
 
-*👋🏼 Hey there, I'm Sandy!* 
+*👋 Hey there, I'm Sandy!*
 
-After 18+ years in customer service and nearly a decade of it in healthcare, I made the leap into tech to pursue my passion for problem solving and building meaningful systems. Since 2020, I’ve been developing backend applications with a focus on test-driven development (`TDD`), secure authentication, and API integration primarily using `Ruby on Rails`, `Elixir`, and `PostgreSQL`.
+I'm a software engineer with 2+ years of professional experience building secure, scalable backend systems and a background that makes me a little different from most engineers you'll meet.
 
-I'm currently open to new opportunities (especially remote roles or positions in the UK with visa sponsorship) and actively working on side projects, including game development in `Unity` and fullstack certifications to broaden my technical toolkit with projects covering `React`, `JavaScript`, `HTML`, and `CSS`.
+After nearly a decade as a Certified Occupational Therapy Assistant, I transitioned into tech in 2020 with a clear mission: build better software for the industries that need it most. I've since worked professionally with `Elixir`, `Ruby on Rails`, and `PostgreSQL`, with a focus on API integration, authentication systems, and database architecture.
 
-When I'm not coding, you'll probably find me deep in a video game or exploring new tools that stretch my creativity. I’m always learning, always building, and always looking for ways to make tech more impactful.
+Lately I've been expanding my toolkit into AI-assisted development and full-stack engineering - recently earning certifications in Full Stack Development, Front End Development, and Python Development, and building projects that integrate LLM APIs and automated workflows.
 
-📌 Follow along to see what I’m working on next!
-<br>
+🔨 **Currently building:**
+- A Deal Brief Generator using the Claude API and Python
+- A Job Application Tracker REST API in Ruby on Rails
+
+💼 Open to backend and full-stack engineering roles in the Denver metro area.
+
+📌 Always learning, always building - follow along to see what's next!
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sandy-marie/)
 
 ---
