@@ -10,13 +10,11 @@ After nearly a decade as a Certified Occupational Therapy Assistant, I transitio
 
 Lately I've been expanding my toolkit into AI-assisted development and full-stack engineering - recently earning certifications in Full Stack Development, Front End Development, and Python Development, and building projects that integrate LLM APIs and automated workflows.
 
-🔨 **Currently building:**
+**Currently building:**
 - A Deal Brief Generator using the Claude API and Python
 - A Job Application Tracker REST API in Ruby on Rails
 
-💼 Open to backend and full-stack engineering roles in the Denver metro area.
-
-📌 Always learning, always building - follow along to see what's next!
+Open to backend and full-stack engineering roles in the Denver metro area.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sandy-marie/)
 
