@@ -8,7 +8,7 @@ I'm a software engineer with 2+ years of professional experience building secure
 
 After nearly a decade as a Certified Occupational Therapy Assistant, I transitioned into tech in 2020 with a clear mission: build better software for the industries that need it most. I've since worked professionally with `Elixir`, `Ruby on Rails`, and `PostgreSQL`, with a focus on API integration, authentication systems, and database architecture.
 
-Lately I've been expanding my toolkit into full-stack engineering, AI-assisted development, and TypeScript along with recently earning certifications in **Full-Stack**, **Front-End**, **Back-End**, and **Python** development, and building projects that integrate LLM APIs and automated workflows.
+Lately I've been expanding my toolkit into full-stack engineering, AI-assisted development, and TypeScript along with recently earning certifications in **Full-Stack**, **Front-End**, **Back-End**, and **Python** development, and building projects that integrate **LLM APIs** and automated workflows.
 
 ---
 
